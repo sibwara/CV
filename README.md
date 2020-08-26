@@ -29,13 +29,13 @@ _Spécialiste Intrusion Informatique et Cryptologie_
 
 | Réseau | Profil | Lien |
 | -- | -- | -- |
-| Root-me | Sibwara | https://www.root-me.org/Sibwara |
-| Codingame | Sibwara | https://www.codingame.com/profile/24c322 |
-| Security Stack Exchange | Sibwara | https://security.stackexchange.com/users/11 |
-| Wikipedia | Sibwara | https://fr.wikipedia.org/wiki/Sp%C3%A9cial:Contributions/Sibwara |
-| LinkedIn | David Soria | https://fr.linkedin.com/in/david-soria-73722039 |
-| Twitter | @Sibwara | https://twitter.com/sibwara |
-| GitHub | astar-security | https://github.com/astar-security |
+| ![](https://www.root-me.org/favicon.ico) Root-me | Sibwara | https://www.root-me.org/Sibwara |
+| ![](https://www.codingame.com/favicon.ico) Codingame | Sibwara | https://www.codingame.com/profile/24c322 |
+| ![](https://cdn.sstatic.net/Sites/security/Img/favicon.ico?v=54cb45853e3c) Security Stack Exchange | Sibwara | https://security.stackexchange.com/users/11 |
+| ![](https://fr.wikipedia.org/favicon.ico) Wikipedia | Sibwara | https://fr.wikipedia.org/wiki/Sp%C3%A9cial:Contributions/Sibwara |
+| ![](https://www.linkedin.com/favicon.ico) LinkedIn | David Soria | https://fr.linkedin.com/in/david-soria-73722039 |
+| ![](https://twitter.com/favicon.ico) Twitter | @Sibwara | https://twitter.com/sibwara |
+| ![](https://github.com/favicon.ico) GitHub | astar-security | https://github.com/astar-security |
 
 ## Passions
 
