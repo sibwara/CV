@@ -27,6 +27,16 @@ _Spécialiste Intrusion Informatique et Cryptologie_
 
 ## Réseaux
 
+| Réseau | Profil | Lien |
+| -- | -- | -- |
+| Root-me | Sibwara | https://www.root-me.org/Sibwara |
+| Codingame | Sibwara | https://www.codingame.com/profile/24c322 |
+| Security Stack Exchange | Sibwara | https://security.stackexchange.com/users/11 |
+| Wikipedia | Sibwara | https://fr.wikipedia.org/wiki/Sp%C3%A9cial:Contributions/Sibwara |
+| LinkedIn | David Soria | https://fr.linkedin.com/in/david-soria-73722039 |
+| Twitter | @Sibwara | https://twitter.com/sibwara |
+| GitHub | astar-security | https://github.com/astar-security |
+
 ## Passions
 
 ## Personalité
